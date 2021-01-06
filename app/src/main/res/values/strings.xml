@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Online Bakery</string>
+
+    <!--  Stings for register  -->
+    <string name="register_customer">Register Customer</string>
+    <string name="register_baker">Register Baker</string>
+    <string name="userName">Username</string>
+    <string name="pw">Password</string>
+    <string name="signUp">Sign Up</string>
+    <string name="user_name">USERNAME*</string>
+    <string name="first_name">FIRST NAME</string>
+    <string name="last_name">LAST NAME</string>
+    <string name="email">EMAIL</string>
+    <string name="address">ADDRESS</string>
+    <string name="city">CITY</string>
+    <string name="pw_intro">CHOOSE A PASSWORD*</string>
+    <string name="pw_confirm">CONFIRM PASSWORD*</string>
+    <string name="intro">(* required)</string>
+
+    <!--  Stings for login  -->
+    <string name="login">Login</string>
+    <string name="user_name_login">Username</string>
+    <string name="password_login">Password</string>
+    <string name="create_account_intro">Don\'t have an account already?\ </string>
+    <string name="create_account_underlined">Create one.</string>
+    <string name="remember_me">Remember me.</string>
+    <string name="forgot_pass">Forgot password?</string>
+
+    <!--  Stings for profile  -->
+    <string name="save_profile_edit">Save</string>
+    <string name="cancel_profile_edit">Cancel</string>
+</resources>
